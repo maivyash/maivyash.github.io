@@ -11,11 +11,11 @@ Hey there! I'm **Yash Gupta**, a:
 - 🛠️ Freelancer & Problem Solver  
 - 📱 Android App Developer
 
-I'm always excited about learning new technologies, building innovative projects, and solving real-world problems through code. I design, develop, and deploy using modern web stacks like **React.js** and **Next.js**.
+I'm always excited about learning new technologies, building innovative projects, and solving real-world problems through code. I design, develop, and deploy using modern web stacks like **React.js** and **Next.js**. Also whole **MERN Projects**
 
 ## 🖼️ Live Preview
 
-👉 [Click here to visit my portfolio](#) <!-- Add your live site link here -->
+👉 [Click here to visit my portfolio](#) maivyash.github.io
 
 ## 🛠️ Tech Stack
 
