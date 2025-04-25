@@ -15,7 +15,7 @@ I'm always excited about learning new technologies, building innovative projects
 
 ## 🖼️ Live Preview
 
-👉 [Click here to visit my portfolio](#) <!-- maivyash.github.io -->
+👉 [Click here to visit my portfolio](maivyash.github.io) <!-- maivyash.github.io -->
 
 ## 🛠️ Tech Stack
 
